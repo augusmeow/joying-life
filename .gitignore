@@ -1,0 +1,11 @@
+.idea
+node_modules
+.temp
+.cache
+dist
+*.bak
+
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
