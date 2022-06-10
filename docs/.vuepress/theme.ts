@@ -58,7 +58,8 @@ export default hopeTheme({
       navbar: navbar.en,
 
       // sidebar
-      sidebar: sidebar.en,
+      // sidebar: sidebar.en,
+      sidebar:false,
 
       footer: "Default footer",
 
