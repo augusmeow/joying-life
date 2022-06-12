@@ -1,0 +1,2 @@
+information resourse development
+
