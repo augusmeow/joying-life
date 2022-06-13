@@ -1,5 +1,6 @@
-import { navbar } from "vuepress-theme-hope";
+import {navbar} from "vuepress-theme-hope";
 
 export const en = navbar([
-  // "/",
+  "/en/",
+  "/en/diary/"
 ]);

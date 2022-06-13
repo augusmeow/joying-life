@@ -1,9 +1,10 @@
-import { sidebar } from "vuepress-theme-hope";
+import {sidebar} from "vuepress-theme-hope";
 
 export const zh = sidebar({
-  "/zh/": [
+  "/": [
     "",
     "home",
     "slide",
   ],
+  "/diary/": "structure",
 });
