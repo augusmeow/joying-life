@@ -1,8 +1,4 @@
 .idea
-node_modules
-.temp
-.cache
-dist
 *.bak
 
 node_modules/
