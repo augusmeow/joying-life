@@ -1,13 +1,13 @@
 ---
 home: true
 icon: home
-title: Project home
+title: 项目主页
 actions:
-  - text: Random thought 💡
+  - text: 胡思乱想 💡
     link: /diary/
     type: primary
 
-  - text: Blog homepage 🏠
+  - text: 博客主页 🏠
     link: /
 
 copyright: false
