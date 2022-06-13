@@ -1,6 +1,5 @@
 import {hopeTheme} from "vuepress-theme-hope";
-import * as navbar from "./navbar";
-import * as sidebar from "./sidebar";
+import {theme_local} from "./index";
 
 export default hopeTheme({
   hostname: "https://draugus.github.io/RandomThought/",
@@ -34,44 +33,7 @@ export default hopeTheme({
     },
   },
 
-  locales: {
-    "/en/": {
-      // navbar
-      navbar: navbar.en,
-
-      // sidebar
-      sidebar: false,
-
-      footer: "Default footer",
-
-      displayFooter: true,
-
-      blog: {
-        description: "A FrontEnd programmer",
-        intro: "/en/intro.html",
-      },
-    },
-
-    /**
-     * Chinese locale config
-     */
-    "/": {
-      // navbar
-      navbar: navbar.zh,
-
-      // sidebar
-      sidebar: sidebar.zh,
-
-      footer: "默认页脚",
-
-      displayFooter: true,
-
-      blog: {
-        description: "胡思乱想的散记",
-        intro: "/intro.html",
-      },
-    },
-  },
+  locales: theme_local,
 
   plugins: {
     blog: {
