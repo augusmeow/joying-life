@@ -20,35 +20,17 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://draugus.github.io/RandomThought/",
-      Bitbucket: "https://draugus.github.io/RandomThought/",
-      Dingding: "https://draugus.github.io/RandomThought/",
       Discord: "https://draugus.github.io/RandomThought/",
-      Dribbble: "https://draugus.github.io/RandomThought/",
       Email: "https://draugus.github.io/RandomThought/",
-      Evernote: "https://draugus.github.io/RandomThought/",
       Facebook: "https://draugus.github.io/RandomThought/",
-      Flipboard: "https://draugus.github.io/RandomThought/",
-      Gitee: "https://draugus.github.io/RandomThought/",
       GitHub: "https://draugus.github.io/RandomThought/",
-      Gitlab: "https://draugus.github.io/RandomThought/",
-      Gmail: "https://draugus.github.io/RandomThought/",
       Instagram: "https://draugus.github.io/RandomThought/",
       Lines: "https://draugus.github.io/RandomThought/",
       Linkedin: "https://draugus.github.io/RandomThought/",
-      Pinterest: "https://draugus.github.io/RandomThought/",
-      Pocket: "https://draugus.github.io/RandomThought/",
       QQ: "https://draugus.github.io/RandomThought/",
-      Qzone: "https://draugus.github.io/RandomThought/",
-      Reddit: "https://draugus.github.io/RandomThought/",
-      Rss: "https://draugus.github.io/RandomThought/",
       Steam: "https://draugus.github.io/RandomThought/",
       Twitter: "https://draugus.github.io/RandomThought/",
-      Wechat: "https://draugus.github.io/RandomThought/",
       Weibo: "https://draugus.github.io/RandomThought/",
-      Whatsapp: "https://draugus.github.io/RandomThought/",
-      Youtube: "https://draugus.github.io/RandomThought/",
-      Zhihu: "https://draugus.github.io/RandomThought/",
     },
   },
 
@@ -58,8 +40,7 @@ export default hopeTheme({
       navbar: navbar.en,
 
       // sidebar
-      // sidebar: sidebar.en,
-      sidebar:false,
+      sidebar: false,
 
       footer: "Default footer",
 
@@ -67,7 +48,7 @@ export default hopeTheme({
 
       blog: {
         description: "A FrontEnd programmer",
-        intro: "/intro.html",
+        intro: "/en/intro.html",
       },
     },
 
@@ -86,8 +67,8 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
-        intro: "/zh/intro.html",
+        description: "胡思乱想的散记",
+        intro: "/intro.html",
       },
     },
   },
