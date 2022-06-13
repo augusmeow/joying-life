@@ -1238,7 +1238,7 @@
     envinfo "^7.8.1"
     esbuild "^0.14.39"
 
-"@vuepress/client@2.0.0-beta.46", "@vuepress/client@^2.0.0-beta.46":
+"@vuepress/client@2.0.0-beta.46":
   version "2.0.0-beta.46"
   resolved "https://registry.yarnpkg.com/@vuepress/client/-/client-2.0.0-beta.46.tgz#cfb435d81b901bccaee801cbe3411a8958e73ccc"
   integrity sha512-Ep7x+/0ofRSwitO02jVAoD5KQwxj332vKZN984GXiS90W2vKYOtsvNqZIu2mVBCMCyCVDt2obNMmm7Y4s9fUNQ==
@@ -4051,7 +4051,7 @@ vue-router@^4.0.15:
   dependencies:
     "@vue/devtools-api" "^6.0.0"
 
-vue@^3.2.35, vue@^3.2.36:
+vue@3.2.37, vue@^3.2.35, vue@^3.2.36:
   version "3.2.37"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"
   integrity sha512-bOKEZxrm8Eh+fveCqS1/NkG/n6aMidsI6hahas7pa0w/l7jkbssJVsRhVDs07IdDq7h9KHswZOgItnwJAgtVtQ==
@@ -4252,7 +4252,7 @@ vuepress-shared@2.0.0-beta.79:
     vue "^3.2.36"
     vue-router "^4.0.15"
 
-vuepress-theme-hope@^2.0.0-beta.79:
+vuepress-theme-hope@2.0.0-beta.79:
   version "2.0.0-beta.79"
   resolved "https://registry.yarnpkg.com/vuepress-theme-hope/-/vuepress-theme-hope-2.0.0-beta.79.tgz#73523fbf72d52a733cfaa5acf20113337908fed1"
   integrity sha512-mYoRNpk3Pw0r/+m9Dx482FZl1zx6ykoJfMcIByMGLfo0gJSv+oovuGeQFFnjJQl8DeDzXE1vljO6TUBBDlEiBg==
@@ -4300,7 +4300,7 @@ vuepress-vite@2.0.0-beta.46:
     "@vuepress/core" "2.0.0-beta.46"
     "@vuepress/theme-default" "2.0.0-beta.46"
 
-vuepress@^2.0.0-beta.46:
+vuepress@2.0.0-beta.46:
   version "2.0.0-beta.46"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.46.tgz#855d4a451d75438d5c0e7dfc0284b61aa3b792cd"
   integrity sha512-5aDb1PiSjU4w/66YnQkaodcocAwkGEjtPv7Ux4dqEh8W+IjVqYcedg2syI5NuBrcAkNh9uq/6CTFibrZ6eyR2w==
