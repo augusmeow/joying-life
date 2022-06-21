@@ -15,6 +15,8 @@ export default hopeTheme({
 
   repo: "DrAugus/RandomThought",
 
+  docsDir: "src",
+
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {

@@ -17,12 +17,12 @@ run：
 
 ```yarn
 yarn install
-yarn docs:dev
+yarn src:dev
 ```
 
 ## Contribute
 
-Before you commit, please run `vuepress-vite build docs`
+Before you commit, please run `vuepress-vite build src`
 
 ## Thanks
 
