@@ -7,4 +7,5 @@ export const zh = sidebar({
     "slide",
   ],
   "/diary/": "structure",
+  "/thinking/": "structure",
 });
