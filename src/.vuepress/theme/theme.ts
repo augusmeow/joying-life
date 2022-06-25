@@ -9,13 +9,11 @@ export default hopeTheme({
     url: "https://github.com/DrAugus",
   },
 
-  iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
+  iconAssets: "fontawesome",
 
   logo: "/logo.jpg",
 
   repo: "DrAugus/RandomThought",
-
-  docsDir: "src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -46,9 +44,6 @@ export default hopeTheme({
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
     comment: {
-      /**
-       * Using Giscus
-       */
       provider: "Giscus",
       repo: "DrAugus/RandomThought",
       repoId: "R_kgDOHeXLoQ",
@@ -56,19 +51,6 @@ export default hopeTheme({
       categoryId: "DIC_kwDOHeXLoc4CPjm7",
       mapping: "pathname",
       inputPosition: "top",
-
-
-      /**
-       * Using Twikoo
-       */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     mdEnhance: {
