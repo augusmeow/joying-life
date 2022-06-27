@@ -3,10 +3,10 @@ home: true
 layout: Blog
 icon: home
 title: 胡思乱想
-bgImage: image/bg1.jpg
+bgImage: image/bg2.jpg
 heroImage: null
-heroText: Augus
-tagline: One More Thing
+heroText: 散记
+tagline: 碎碎念
 heroFullScreen: true
 projects:
   - icon: project
@@ -17,12 +17,12 @@ projects:
   - icon: link
     name: 英国王室
     desc: 温莎
-    link: https://augusmeow.cn/RoyalFamily/
+    link: https://draugus.github.io/RoyalFamily/
 
   - icon: article
     name: 文章
     desc: 消磨时间的文章
-    link: https://augusmeow.cn/Augus/i18n/
+    link: https://draugus.github.io/Augus/
 
   - icon: friend
     name: 友链

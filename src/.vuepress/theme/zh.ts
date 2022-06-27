@@ -78,7 +78,7 @@ export const local_zh = {
   },
 
   blog: {
-    description: "说点什么",
+    description: "除了Github哪里也找不到我",
     intro: "/intro",
   },
 

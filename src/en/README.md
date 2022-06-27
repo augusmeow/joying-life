@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: Thinking Random
-bgImage: image/bg2.jpg
+bgImage: image/bg1.jpg
 heroImage: null
 heroText: Augus
 tagline: One More Thing
@@ -17,12 +17,12 @@ projects:
   - icon: link
     name: British Royal Family
     desc: House of Windsor Family Tree
-    link: https://augusmeow.cn/RoyalFamily/
+    link: https://draugus.github.io/RoyalFamily/
 
   - icon: article
     name: Article
     desc: Some boring articles
-    link: https://augusmeow.cn/Augus/
+    link: https://draugus.github.io/Augus/
 
   - icon: friend
     name: Friends Link

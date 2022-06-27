@@ -5,31 +5,30 @@ export default hopeTheme({
   hostname: "https://draugus.github.io/RandomThought/",
 
   author: {
-    name: "Augus",
+    name: "Joying",
     url: "https://github.com/DrAugus",
   },
 
   iconAssets: "fontawesome",
 
+  themeColor: {
+    blue: "#2196f3",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
+
   logo: "/logo.jpg",
 
   repo: "DrAugus/RandomThought",
+
+  editLinkPattern: ":repo/edit/master/src/:path",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
     medias: {
-      Discord: "https://draugus.github.io/RandomThought/",
-      Email: "https://draugus.github.io/RandomThought/",
-      Facebook: "https://draugus.github.io/RandomThought/",
       GitHub: "https://draugus.github.io/RandomThought/",
-      Instagram: "https://draugus.github.io/RandomThought/",
-      Lines: "https://draugus.github.io/RandomThought/",
-      Linkedin: "https://draugus.github.io/RandomThought/",
-      QQ: "https://draugus.github.io/RandomThought/",
-      Steam: "https://draugus.github.io/RandomThought/",
-      Twitter: "https://draugus.github.io/RandomThought/",
-      Weibo: "https://draugus.github.io/RandomThought/",
     },
   },
 
