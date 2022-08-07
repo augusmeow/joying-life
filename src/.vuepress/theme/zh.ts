@@ -1,10 +1,11 @@
 import {navbar_zh} from "../navbar";
+import {sidebar_zh} from "../sidebar";
 
 export const local_zh = {
   lang: "zh-CN",
 
   navbar: navbar_zh,
-  sidebar: "structure",
+  sidebar: sidebar_zh,
 
   navbarLocales: {
     langName: "简体中文",

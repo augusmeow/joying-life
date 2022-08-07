@@ -1,8 +1,7 @@
 ---
 home: true
 layout: Blog
-icon: home
-title: 胡思乱想
+title: 主页
 bgImage: image/bg2.jpg
 heroImage: null
 heroText: 散记
