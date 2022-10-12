@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "nothing",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "joying:build": "vuepress build src",
     "joying:clean-dev": "vuepress dev src --clean-cache",
