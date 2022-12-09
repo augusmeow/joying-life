@@ -1,7 +1,7 @@
-.idea
-*.bak
+.idea/
+.vscode/
 
 node_modules/
-src/.vuepress/.cache/
-src/.vuepress/.temp/
-src/.vuepress/dist/
+src/.vitepress/.cache/
+src/.vitepress/.temp/
+src/.vitepress/dist/

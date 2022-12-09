@@ -1,6 +1,5 @@
 ---
 title: 思考
-index: false
 ---
 
 吾日三省吾身

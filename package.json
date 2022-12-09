@@ -1,18 +1,23 @@
 {
-  "name": "random_thought",
-  "version": "0.0.0",
-  "description": "nothing",
+  "name": "joying",
+  "version": "1.0.0",
+  "description": "random thought",
+  "main": "index.js",
+  "repository": "https://github.com/DrAugus/RandomThought",
+  "author": "Augus",
   "license": "MIT",
-  "type": "module",
+  "private": false,
   "scripts": {
-    "joying:build": "vuepress build src",
-    "joying:clean-dev": "vuepress dev src --clean-cache",
-    "joying:dev": "vuepress dev src"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "src:dev": "vitepress dev src",
+    "src:build": "vitepress build src",
+    "src:preview": "vitepress preview src"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.50-pre.1",
-    "vue": "3.2.39",
-    "vuepress": "2.0.0-beta.51",
-    "vuepress-theme-hope": "2.0.0-beta.99"
+    "@antfu/eslint-config": "^0.33.1",
+    "eslint": "^8.29.0",
+    "vitepress": "^1.0.0-alpha.30",
+    "vue": "^3.2.45"
   }
 }
