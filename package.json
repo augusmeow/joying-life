@@ -10,9 +10,9 @@
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "src:dev": "vitepress dev src",
-    "src:build": "vitepress build src",
-    "src:preview": "vitepress preview src"
+    "joying:dev": "vitepress dev src",
+    "joying:build": "vitepress build src",
+    "joying:preview": "vitepress preview src"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.33.1",

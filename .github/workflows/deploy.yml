@@ -39,7 +39,7 @@ jobs:
           BASE: /RandomThought/
           HOSTNAME: https://draugus.github.io/RandomThought/
           NODE_OPTIONS: --max_old_space_size=4096
-        run: yarn run joying:build
+        run: yarn joying:build
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
