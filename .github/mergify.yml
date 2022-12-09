@@ -3,7 +3,6 @@ pull_request_rules:
     conditions:
       - author=imgbot[bot]
       - check-success=Summary
-      - check-success=deploy
     actions:
       merge:
         method: merge

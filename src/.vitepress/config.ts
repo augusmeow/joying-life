@@ -6,7 +6,7 @@ export default defineConfig({
     // These are app level configs.
     title: 'Joying',
     description: 'random thought',
-
+    base: "/RandomThought/",
     lastUpdated: true,
     cleanUrls: 'without-subfolders',
     head: [
