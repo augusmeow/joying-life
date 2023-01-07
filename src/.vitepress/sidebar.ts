@@ -17,5 +17,12 @@ export const sidebar = {
         { text: '信息资源建设', link: '/think/信息资源建设' }
       ]
     },
+    {
+      text: '考证',
+      // collapsible: true,
+      items: [
+        { text: '实例', link: '/credentials/temp' },
+      ]
+    },
   ]
 }
