@@ -1,9 +1,9 @@
 {
   "name": "joying",
   "version": "1.0.0",
-  "description": "random thought",
+  "description": "Joying Life",
   "main": "index.js",
-  "repository": "https://github.com/DrAugus/RandomThought",
+  "repository": "https://github.com/augusmeow/joying-life",
   "author": "Augus",
   "license": "MIT",
   "private": false,

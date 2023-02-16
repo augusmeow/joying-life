@@ -5,8 +5,8 @@ import { sidebar } from './sidebar'
 export default defineConfig({
     // These are app level configs.
     title: 'Joying',
-    description: 'random thought',
-    base: "/RandomThought/",
+    description: 'Joying Life',
+    base: "/joying-life/",
     lastUpdated: true,
     cleanUrls: 'without-subfolders',
     head: [
@@ -19,10 +19,10 @@ export default defineConfig({
     themeConfig: {
         sidebar: sidebar,
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/DrAugus/RandomThought' },
+            { icon: 'github', link: 'https://github.com/augusmeow/joying-life' },
         ],
         editLink: {
-            pattern: 'https://github.com/DrAugus/RandomThought/tree/master/src/:path',
+            pattern: 'https://github.com/augusmeow/joying-life/tree/master/src/:path',
             text: 'Suggest changes to this page',
         },
         footer: {

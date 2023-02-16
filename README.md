@@ -1,4 +1,4 @@
-# [RandomThought](https://draugus.github.io/RandomThought/)
+# [Joying Life](https://augusmeow.github.io/joying-life/)
 
 ## Develop
 
@@ -10,7 +10,7 @@ prerequisites：
 git clone：
 
 ```git
-git clone https://github.com/DrAugus/RandomThought.git
+git clone https://github.com/augusmeow/joying-life.git
 ```
 
 run：
