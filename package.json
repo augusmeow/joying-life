@@ -1,5 +1,6 @@
 {
   "name": "joying",
+  "type": "module",
   "version": "1.0.0",
   "description": "Joying Life",
   "main": "index.js",
