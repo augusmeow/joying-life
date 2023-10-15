@@ -5,3 +5,7 @@ node_modules/
 src/.vitepress/.cache/
 src/.vitepress/.temp/
 src/.vitepress/dist/
+
+.vitepress/.cache/
+.vitepress/.temp/
+.vitepress/dist/

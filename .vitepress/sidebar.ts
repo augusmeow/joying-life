@@ -1,28 +1,14 @@
 export const sidebar = {
+  '/diary/': [
+    { text: '2022-06-11', link: '/diary/2022-06-11' },
+  ],
   '/think/': [
-    {
-      text: 'diary',
-      collapsible: true,
-      items: [
-        { text: '2022-06-11', link: '/think/diary/2022-06-11' },
-      ]
-    },
-    {
-      text: 'think',
-      collapsible: true,
-      items: [
-        { text: 'about', link: '/think/about' },
-        { text: 'tutor', link: '/think/tutor' },
-        { text: 'abbr', link: '/think/abbr' },
-        { text: '信息资源建设', link: '/think/信息资源建设' }
-      ]
-    },
-    {
-      text: '考证',
-      // collapsible: true,
-      items: [
-        { text: '实例', link: '/credentials/temp' },
-      ]
-    },
-  ]
+    { text: 'about', link: '/think/about' },
+    { text: 'tutor', link: '/think/tutor' },
+    { text: 'abbr', link: '/think/abbr' },
+    { text: '信息资源建设', link: '/think/信息资源建设' },
+  ],
+  '/credentials/': [
+    { text: '实例', link: '/credentials/temp' },
+  ],
 }

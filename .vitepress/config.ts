@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './sidebar'
-
+import { navbar } from './navbar'
 
 export default defineConfig({
     // These are app level configs.
@@ -17,6 +17,7 @@ export default defineConfig({
         ['meta', { name: 'theme-color', content: '#3c8772' }],
     ],
     themeConfig: {
+        nav: navbar,
         sidebar: sidebar,
         socialLinks: [
             { icon: 'github', link: 'https://github.com/augusmeow/joying-life' },
