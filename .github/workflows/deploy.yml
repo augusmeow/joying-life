@@ -33,7 +33,7 @@ jobs:
         name: Install pnpm
         id: pnpm-install
         with:
-          version: 10.33.3
+          version: 10.33.4
 
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
